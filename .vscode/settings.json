@@ -1,7 +1,7 @@
 {
 	"files.exclude": {
 		"**/node_modules": true,
-		"**/src/*.*": true,
+		// "**/src/*.*": true,
 		"**.eslintignore": true,
 		"**.eslintrc.cjs": true,
 		"**.gitignore": false,
@@ -17,7 +17,7 @@
 	"workbench.colorCustomizations": {
 		"titleBar.activeBackground": "#030140", // barra superior
 		"activityBar.background": "#8C7C6D", // barra lateral
-		"statusBar.background": "#cf3554", // barra inferior
+		"statusBar.background": "#030140", // barra inferior
 		"activityBar.activeBorder": "#030140", // borde de elemento seleccionado
 		"activityBar.foreground": "#030140", // color de los iconos (activos)
 		"activityBar.inactiveForeground": "#e7e7e799", // color de los iconos (inactivos)
