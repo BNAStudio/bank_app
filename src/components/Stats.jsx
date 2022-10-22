@@ -1,8 +1,3 @@
-
-const Stats = () => (
-    <div>
-        Stats
-    </div>
-);
+const Stats = () => <div>Stats</div>;
 
 export default Stats;

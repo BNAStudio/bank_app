@@ -1,8 +1,3 @@
-
-const Clients = () => (
-    <div>
-        Clients
-    </div>
-);
+const Clients = () => <div>Clients</div>;
 
 export default Clients;

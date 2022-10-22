@@ -1,8 +1,3 @@
-
-const Business = () => (
-    <div>
-        Business
-    </div>
-);
+const Business = () => <div>Business</div>;
 
 export default Business;

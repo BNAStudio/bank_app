@@ -1,8 +1,3 @@
-
-const CTA = () => (
-    <div>
-        CTA
-    </div>
-);
+const CTA = () => <div>CTA</div>;
 
 export default CTA;
