@@ -1,8 +1,3 @@
-
-const GetStarted = () => (
-    <div>
-        GetStarted
-    </div>
-);
+const GetStarted = () => <div>GetStarted</div>;
 
 export default GetStarted;

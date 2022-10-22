@@ -1,8 +1,3 @@
-
-const Testimonials = () => (
-    <div>
-        Testimonials
-    </div>
-);
+const Testimonials = () => <div>Testimonials</div>;
 
 export default Testimonials;

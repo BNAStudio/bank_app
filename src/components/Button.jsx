@@ -1,8 +1,3 @@
-
-const Button = () => (
-    <div>
-        Button
-    </div>
-);
+const Button = () => <div>Button</div>;
 
 export default Button;

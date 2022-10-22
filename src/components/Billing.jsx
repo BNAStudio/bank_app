@@ -1,8 +1,3 @@
-
-const Billing = () => (
-    <div>
-        Billing
-    </div>
-);
+const Billing = () => <div>Billing</div>;
 
 export default Billing;
