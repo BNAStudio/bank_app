@@ -11,6 +11,7 @@ module.exports = {
 	extends: [
 		"plugin:react/recommended",
 		"plugin:react/jsx-runtime", // disable error => | import react from 'react' |
+		"eslint-disable react/prop-types", // disable error => | missing props |
 		"standard",
 		"eslint-config-prettier",
 	],
