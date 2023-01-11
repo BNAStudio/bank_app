@@ -51,3 +51,4 @@ export {
 	people02,
 	people03,
 };
+console.log("hello");
